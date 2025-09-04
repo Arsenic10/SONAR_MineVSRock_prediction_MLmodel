@@ -40,3 +40,34 @@ The dataset used is the **Sonar Dataset (UCI Machine Learning Repository)**, whi
 ---
 
 ## 📂 Project Structure
+- **RockVSMine_Prediction.ipynb:**
+
+
+---
+
+## 🎯 Key Learnings
+- Data preprocessing (encoding + scaling).
+- Training & evaluating ML classification models.
+- Working with real-world scientific datasets.
+- Building end-to-end ML pipelines.
+
+---
+
+## 🔮 Future Improvements
+- Experiment with **SVM, Random Forest, and Neural Networks**.
+- Perform **hyperparameter tuning** to improve accuracy.
+- Use **cross-validation** for better generalization.
+
+---
+
+## 📌 Dataset
+- https://drive.google.com/file/d/1SbwpszNJDhBolwr9NqUe2TKoYfOtNws2/view?usp=sharing
+
+---
+
+## 👤 Author
+- **Aaryan Kaurwar**
+
+---
+ 
+
